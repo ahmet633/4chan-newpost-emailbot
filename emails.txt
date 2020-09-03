@@ -1,0 +1,2 @@
+this list is where emails will be send to.
+delete these lines and seperate emails with whitespaces.

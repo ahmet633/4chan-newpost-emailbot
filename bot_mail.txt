@@ -1,0 +1,3 @@
+you@example.com
+your_password
+host of emailing service
