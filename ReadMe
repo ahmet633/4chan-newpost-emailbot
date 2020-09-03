@@ -10,3 +10,5 @@ How to use:
 -write your keywords to "keywords.txt". Sepereate each keyword with whitespaces.
 -write your reciver email list to "emails.txt". Seperate each email with whitespaces.
 -run "python3 main.py"
+
+Important! This bot currently collects posts from only /biz/. To collect from another topic, edit api url from main.py
